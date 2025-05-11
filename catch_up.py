@@ -16,7 +16,7 @@ clock = time.Clock()
 FPS = 100
 
 game = True
-
+#tut bil vlad
 while game:
     okoshko.blit(fon, (0, 0)) 
     okoshko.blit(s1, (x1, y1))
